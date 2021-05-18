@@ -1,0 +1,27 @@
+.custom-button {
+  width: 260px;
+  height: 50px;
+  background: linear-gradient(
+      136.32deg,
+      rgba(58, 60, 64, 0.4) 1.49%,
+      rgba(255, 255, 255, 0.304174) 97.46%
+    ),
+    #1654f0;
+  background-blend-mode: soft-light, normal;
+  box-shadow: -7px -7px 10px rgba(255, 255, 255, 0.5),
+    7px 7px 10px rgba(119, 148, 214, 0.538134);
+  border-radius: 10px;
+  border: none;
+  margin-top: 10%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.5px;
+
+  color: #ffffff;
+}
