@@ -1,0 +1,25 @@
+.custom-select {
+  width: 150px;
+  height: 32px;
+  background: linear-gradient(
+      136.32deg,
+      rgba(58, 60, 64, 0.4) 1.49%,
+      rgba(255, 255, 255, 0.304174) 97.46%
+    ),
+    #ffffff;
+  background-blend-mode: soft-light, normal;
+  box-shadow: -7px -7px 10px rgba(255, 255, 255, 0.5),
+    7px 7px 10px rgba(202, 206, 220, 0.31);
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  padding: 1%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 0.5px;
+
+  color: #9da5b7;
+}

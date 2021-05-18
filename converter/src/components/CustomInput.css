@@ -1,0 +1,17 @@
+.custom-input {
+  width: 140px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.760435);
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  box-sizing: border-box;
+  border-radius: 5px;
+  outline: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: 0.5px;
+  padding: 0 5%;
+  color: #9da5b7;
+}
